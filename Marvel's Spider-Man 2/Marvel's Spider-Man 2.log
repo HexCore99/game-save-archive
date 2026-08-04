@@ -1,0 +1,522 @@
+22:03:30:975 (00032184) > [Startup] Marvel's Spider-Man 2
+22:03:30:975 (00032184) > [Startup] ==============
+22:03:30:975 (00032184) > [Startup] 
+22:03:30:975 (00032184) > [Startup] Build: v1.526.0.0
+22:03:30:975 (00032184) > [Startup] Windows 11.0 (build 26100.3775)
+22:03:30:975 (00032184) > [Startup] Distribution platform: Steam
+22:03:30:975 (00032184) > [Startup] Game directory: C:\Users\<username>\Documents\Marvel's Spider-Man 2\
+22:03:30:975 (00032184) > [Startup] Working directory: E:\Marvels SpiderMan 2
+22:03:30:975 (00032184) > [Startup] Run ID: 7CA0-7764-1A96-0165
+22:03:30:975 (00032184) > [Startup] 
+22:03:30:975 (00032184) > [Startup] Memory statistics:
+22:03:30:975 (00032184) > [Startup]   Total RAM = 31.7 GB (32505 MB)
+22:03:30:975 (00032184) > [Startup]   Avail RAM = 20.8 GB (21269 MB)
+22:03:30:975 (00032184) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+22:03:30:975 (00032184) > [Startup]   Avail virtual memory = 131062.1 GB (134207554 MB)
+22:03:30:975 (00032184) > [Startup]   Total page file = 40.7 GB (41721 MB)
+22:03:30:975 (00032184) > [Startup]   Avail page file = 25.1 GB (25684 MB)
+22:03:30:975 (00032184) > [Startup] 
+22:03:30:975 (00032184) > [NxApp] PreInit
+22:03:30:975 (00032184) > [NxProcessorInfo] Processor info:
+22:03:30:975 (00032184) > [NxProcessorInfo] 	Group Count:       	1
+22:03:30:975 (00032184) > [NxProcessorInfo] 	Physical Core:     	14
+22:03:30:975 (00032184) > [NxProcessorInfo] 		Performance Core:   6
+22:03:30:975 (00032184) > [NxProcessorInfo] 		Efficiency  Core:   8
+22:03:30:975 (00032184) > [NxProcessorInfo] 	Logical  Core:     	20
+22:03:30:976 (00032184) > [NxProcessorInfo] 	Distinct L3 Cache: 	1
+22:03:30:976 (00032184) > [NxProcessorInfo] 	Family:            	6
+22:03:30:976 (00032184) > [NxProcessorInfo] 	Model:             	183
+22:03:30:976 (00032184) > [NxProcessorInfo] 	Name:              	13th Gen Intel(R) Core(TM) i5-13600K
+22:03:30:976 (00032184) > [NxProcessorInfo] 	AVX:               	1
+22:03:30:976 (00032184) > [NxProcessorInfo] 	F16C:              	1
+22:03:30:976 (00032184) > [NxProcessorInfo] 	AVX2:              	1
+22:03:30:976 (00032184) > [NxProcessorInfo] 	NormalAffinity(auto)
+22:03:30:976 (00032184) > [SwapChain] Initializing...
+22:03:30:976 (00032184) > [DXGI] Initializing...
+22:03:33:054 (00032184) > [NxApp] Streamline was successfully initialized.
+22:03:33:054 (00032184) > [DXGI] Successfully initialized.
+22:03:33:054 (00032184) > [Render] Enumerating adapters:
+22:03:33:054 (00032184) > [Render] 	Adapter 0:
+22:03:33:054 (00032184) > [Monitor] 		Description             : NVIDIA GeForce RTX 3070
+22:03:33:055 (00032184) > [Monitor] 		Vendor                  : nVidia (10de)
+22:03:33:055 (00032184) > [Monitor] 		Device                  : 2488
+22:03:33:055 (00032184) > [Monitor] 		Sub system              : 861719da
+22:03:33:055 (00032184) > [Monitor] 		Revision                : 161
+22:03:33:055 (00032184) > [Monitor] 		Dedicated Video Memory  : 8018 MB
+22:03:33:055 (00032184) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:03:33:055 (00032184) > [Monitor] 		Shared System Memory    : 16252 MB
+22:03:33:055 (00032184) > [Monitor] 
+22:03:33:055 (00032184) > [Render] Loading NVAPI...
+22:03:33:057 (00032184) > [Render] Done loading NVAPI
+22:03:33:057 (00032184) > [Render] 	Adapter 1:
+22:03:33:057 (00032184) > [Monitor] 		Description             : Microsoft Basic Render Driver
+22:03:33:057 (00032184) > [Monitor] 		Vendor                  : Unknown (1414)
+22:03:33:057 (00032184) > [Monitor] 		Device                  : 8c
+22:03:33:057 (00032184) > [Monitor] 		Sub system              : 0
+22:03:33:057 (00032184) > [Monitor] 		Revision                : 0
+22:03:33:057 (00032184) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+22:03:33:057 (00032184) > [Monitor] 		Dedicated System Memory : 0000 MB
+22:03:33:057 (00032184) > [Monitor] 		Shared System Memory    : 16252 MB
+22:03:33:057 (00032184) > [Monitor] 
+22:03:33:057 (00032184) > [Render] Enumerating monitors:
+22:03:33:057 (00032184) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+22:03:33:057 (00032184) > [Render] 
+22:03:33:059 (00032184) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+22:03:33:059 (00032184) > [SwapChain] Successfully initialized.
+22:03:33:059 (00032184) > [Render] Enumerating Display Modes:
+22:03:33:062 (00032184) > [Render] Querying NVAPI for Surround modes
+22:03:33:213 (00032184) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+22:03:33:213 (00032184) > [Render] 	Monitor '1 (NVIDIA GeForce RTX 3070(1))' (0000000000010001): rect(0 1920 0 1080)
+22:03:33:213 (00032184) > [Render] 		- Mode  0 :  800 x  600 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  1 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  2 :  800 x  600 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  3 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  4 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  5 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  6 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  7 : 1024 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  8 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode  9 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 10 : 1024 x  768 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 11 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 12 : 1152 x  864 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 13 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 14 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 15 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 16 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 17 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 18 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 19 : 1176 x  664 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 20 : 1176 x  664 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 21 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 22 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 23 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 24 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 25 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 26 : 1280 x  720 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 27 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 28 : 1280 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 29 : 1280 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 30 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 31 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 32 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 33 : 1280 x  800 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 34 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 35 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 36 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 37 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 38 : 1280 x  960 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 39 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 40 : 1280 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 41 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 42 : 1280 x 1024 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 43 : 1360 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 44 : 1360 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 45 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 46 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 47 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 48 : 1366 x  768 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 49 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 50 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 51 : 1400 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 52 : 1400 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 53 : 1400 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 54 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 55 : 1440 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 56 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 57 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 58 : 1440 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 59 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 60 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 61 : 1440 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 62 : 1440 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 63 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 64 : 1440 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 65 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 66 : 1440 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 67 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 68 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 69 : 1600 x  900 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 70 : 1600 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 71 : 1600 x 1024 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 72 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 73 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 74 : 1600 x 1200 @  60 Hz, stereo = 0, hdr = 0 exclusive = 1
+22:03:33:213 (00032184) > [Render] 		- Mode 75 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 76 : 1680 x 1050 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 77 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 78 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 79 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 80 : 1920 x 1080 @ 100 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 81 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] 		- Mode 82 : 1920 x 1080 @  75 Hz, stereo = 0, hdr = 0 exclusive = 0
+22:03:33:213 (00032184) > [Render] ***** Additional Monitor Output Info *****
+22:03:33:213 (00032184) > [Render] 		BitsPerColor: 8
+22:03:33:213 (00032184) > [Render] 		Primaries: R=0.6543;0.3320  G=0.3174;0.6348  B=0.1533;0.0674  White-Point=0.3135;0.3291
+22:03:33:213 (00032184) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+22:03:33:213 (00032184) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+22:03:33:213 (00032184) > [Render] ******************************************
+22:03:33:213 (00032184) > [Render] 
+22:03:34:001 (00032184) > [NxLowLatency] Reflex support result:Result::eOk
+22:03:34:002 (00032184) > [NxFrameGen] DLSSG support result: Result::eErrorNoSupportedAdapterFound
+22:03:34:002 (00032184) > [NxApp] Querying GPU Driver Info...
+22:03:34:002 (00032184) > [NxApp] Enumerating available display adapters:
+22:03:34:029 (00032184) > [NxApp] 		NVIDIA GeForce RTX 3070 (active)
+22:03:34:029 (00032184) > [NxApp] Successfully found GPU Driver Info
+22:03:34:030 (00032184) > [D3D] Max supported feature level: 11.0
+22:03:34:030 (00032184) > [Render] Disabled D3D12 experimentals
+22:03:34:246 (00032184) > [Render] VMEM Budget: 7250 MB
+22:03:34:246 (00032184) > [Render] VMEM Available: 7243 MB
+22:03:36:052 (00032184) > [Render] GPU node count: 1
+22:03:36:114 (00032184) > [NxD3D] RAY TRACING ENABLED: Ray Tracing Tier 1.1 support detected
+22:03:36:115 (00032184) > [NxLowLatency] Reflex support result:Result::eOk
+22:03:36:115 (00032184) > [NxFrameGen] DLSSG support result: Result::eErrorFeatureMissing
+22:03:36:115 (00032184) > [NxApp] PreInit successful.
+22:03:36:115 (00032184) > [TOC] 6829bc78e277997d21483975545e0a27f7c0191a
+22:03:36:115 (00032184) > [NxApp] Initializing module prefetch thread
+22:03:36:150 (00032184) > [NxUpscaler] SL DLSS support: Result::eOk
+22:03:36:150 (00032184) > [NxUpscaler] SL DLSS RR support: Result::eOk
+22:03:36:242 (00032184) > [NxUpscaler] XeSS init, code = 0
+22:03:36:268 (00032184) > [Input] Keyboard language: "English (United States)" (id: 1033)
+22:03:36:268 (00032184) > [Input] Keyboard physical layout: "US" (id: 00000409)
+22:03:36:268 (00032184) > [Input] Keyboard            ""   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+22:03:36:268 (00032184) > [Input] Human Input Device  ""   product 18274 vendor 93 version 0 usage 1 usagePage 12
+22:03:36:268 (00032184) > [Input] Mouse               ""   id 256 buttons 5 sampleRate 0 horizontalWheel no
+22:03:36:268 (00032184) > [Input] Keyboard            ""   type 81 subType 0 mode 1 function 12 indicators 3 total 120
+22:03:36:268 (00032184) > [Input] Human Input Device  ""   product 65278 vendor 3141 version 296 usage 14 usagePage 1
+22:03:36:268 (00032184) > [Input] Human Input Device  ""   product 65278 vendor 3141 version 296 usage 1 usagePage 12
+22:03:36:269 (00032184) > [Input] Human Input Device  ""   product 65278 vendor 3141 version 296 usage 1 usagePage 12
+22:03:36:269 (00032184) > [Input] Mouse               ""   id 256 buttons 5 sampleRate 0 horizontalWheel no
+22:03:36:269 (00032184) > [Input] Keyboard            ""   type 81 subType 0 mode 1 function 12 indicators 3 total 265
+22:03:36:269 (00032184) > [Input] Joystick            "Controller (8BitDo Ultimate 2C Wireless Controller)"   product 12554 vendor 11720 version 0 usage 5 usagePage 1 xinput yes
+22:03:36:269 (00032184) > [Input] Joystick            "Controller (8BitDo Ultimate 2C Wireless Controller)"   product 12554 vendor 11720 version 276 usage 1 usagePage 65402 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            "Controller (8BitDo Ultimate 2C Wireless Controller)"   product 12554 vendor 11720 version 276 usage 1 usagePage 12 xinput no
+22:03:36:269 (00032184) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+22:03:36:269 (00032184) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 3 sampleRate 0 horizontalWheel no
+22:03:36:269 (00032184) > [Input] Failed to retrieve setup device 14.
+22:03:36:269 (00032184) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 2 usagePage 65280
+22:03:36:269 (00032184) > [Input] Human Input Device  "HID-compliant vendor-defined device"   product 47820 vendor 255 version 1 usage 1 usagePage 65280
+22:03:36:269 (00032184) > [Input] Human Input Device  "HID-compliant digitizer"   product 47820 vendor 255 version 1 usage 1 usagePage 13
+22:03:36:269 (00032184) > [Input] Human Input Device  "HID-compliant digitizer"   product 47820 vendor 255 version 1 usage 1 usagePage 13
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 14429 vendor 10525 version 9 usage 1 usagePage 11 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 4128 vendor 21075 version 5144 usage 1 usagePage 12 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 14429 vendor 10525 version 9 usage 1 usagePage 12 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 4128 vendor 21075 version 5144 usage 1 usagePage 65281 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 4128 vendor 21075 version 5144 usage 260 usagePage 65291 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 8516 vendor 9802 version 2 usage 1 usagePage 65280 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 14429 vendor 10525 version 9 usage 1 usagePage 12 xinput no
+22:03:36:269 (00032184) > [Input] Joystick            ""   product 6575 vendor 2821 version 256 usage 161 usagePage 65394 xinput no
+22:03:36:269 (00032184) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+22:03:36:269 (00032184) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+22:03:36:277 (00032184) > [Input] PsPc libScePad.dll not detected
+22:03:36:278 (00032184) > [Input] Using LibScePad
+22:03:36:281 (00032184) > [Input] Gamepads connected: 0 -> 1
+22:03:36:281 (00032184) > [Input] Gamepad for main player: 8
+22:03:36:281 (00032184) > [XInput] Enumerating available xusb hid devices:
+
+22:03:36:435 (00032616) > [Input] new Windows.Gaming.Input raw-controller found 2dc8 310a {wgi/nrid/:WQTC-\k<TI-UbDBQ-6PONX-<ERhE-JAJiQ-ZW} Xbox 360 Controller for Windows
+
+22:03:39:321 (00032184) > [Input] Windows.Gaming.Input controller connected. index: 0
+22:03:39:321 (00032184) > [Input] Gamepads connected: 1 -> 2
+22:03:39:321 (00032184) > [Input] Gamepad for main player: 0
+22:03:39:434 (00032184) > [Input] XInput disabled, disconnecting controller. index: 0
+22:03:39:434 (00032184) > [Input] Gamepads connected: 2 -> 1
+22:03:39:434 (00032184) > [Input] Gamepad for main player: 0
+22:03:41:177 (00032184) > [NxLowLatency] Reflex support result:Result::eOk
+22:03:41:177 (00032184) > [NxFrameGen] DLSSG support result: Result::eErrorFeatureMissing
+22:03:41:178 (00032184) > [NxApp] Driver Desc: NVIDIA GeForce RTX 3070
+22:03:41:178 (00032184) > [NxApp] Driver Version: 581.08
+22:03:41:178 (00032184) > [**************************************************Display + Graphics Settings**************************************************] 
+22:03:41:178 (00032184) > [Settings] DirectX Version: 12
+22:03:41:178 (00032184) > [Settings] Window mode: Exclusive fullscreen
+22:03:41:178 (00032184) > [Settings] Fullscreen display mode:
+22:03:41:178 (00032184) > [Settings] 	Displaying on monitor: 0
+22:03:41:178 (00032184) > [Settings] 	Resolution: 1920x1080
+22:03:41:178 (00032184) > [Settings] 	Forced Aspect Ratio: Auto
+22:03:41:178 (00032184) > [Settings] Settings Refresh rate: 100
+22:03:41:178 (00032184) > [Settings] 	HDR: Off
+22:03:41:178 (00032184) > [Settings] 	OS reported Refresh rate: 100
+22:03:41:178 (00032184) > [Settings] 	VSync: Off
+22:03:41:178 (00032184) > [Settings] 	Reflex: Low Latency
+22:03:41:178 (00032184) > [Settings] 	Anti-Lag2: Off
+22:03:41:178 (00032184) > [Settings] 	Frame generation: None
+22:03:41:178 (00032184) > [Settings] 	Max generated frames: 1
+22:03:41:178 (00032184) > [Settings] 	Dynamic resolution FPS target: 0
+22:03:41:178 (00032184) > [Settings] Anti aliasing: DLAA
+22:03:41:178 (00032184) > [Settings] Upscale method: DLSS
+22:03:41:178 (00032184) > [Settings] Upscale quality: Quality
+22:03:41:178 (00032184) > [Settings] Upscale sharpen value: 0.000000
+22:03:41:178 (00032184) > [Settings] DLSS preset: CNN
+22:03:41:178 (00032184) > [Settings] Graphics Options:
+22:03:41:178 (00032184) > [Settings] 	RT Reflections: Off
+22:03:41:178 (00032184) > [Settings] 	RT Interiors: Off
+22:03:41:178 (00032184) > [Settings] 	RT Shadows: Off
+22:03:41:178 (00032184) > [Settings] 	RT Ambient Occlusion: Off
+22:03:41:178 (00032184) > [Settings] 		RT Geometry Detail: High
+22:03:41:178 (00032184) > [Settings] 		RT Object Scale: 0.600000
+22:03:41:178 (00032184) > [Settings] 	Texture Quality: Very High
+22:03:41:178 (00032184) > [Settings] 	Texture Filtering: Anisotropic16x
+22:03:41:178 (00032184) > [Settings] 	Shadow Quality: Ultra
+22:03:41:178 (00032184) > [Settings] 	Depth of Field: High
+22:03:41:178 (00032184) > [Settings] 	Level of Detail: Ultra
+22:03:41:178 (00032184) > [Settings] 	Vehicle Detail: VeryHigh
+22:03:41:178 (00032184) > [Settings] 	Crowd Detail: Ultra
+22:03:41:178 (00032184) > [Settings] 	Hair Quality: VeryHigh
+22:03:41:178 (00032184) > [Settings] 	Ambient Occlusion: XeGTAO
+22:03:41:178 (00032184) > [Settings] 	Screen Space Reflections: High
+22:03:41:178 (00032184) > [Settings] 	Particle Lighting: Very High
+22:03:41:178 (00032184) > [Settings] 	Bloom: Off
+22:03:41:178 (00032184) > [Settings] 	Vignette: On
+22:03:41:178 (00032184) > [Settings] 	Chromatic Aberration: On
+22:03:41:178 (00032184) > [Settings] 	Motion Blur: 1.000000
+22:03:41:178 (00032184) > [Settings] 	FOV Correction: 1.000000
+22:03:41:178 (00032184) > [Settings] 	Film Grain Strength: 1.000000
+22:03:41:178 (00032184) > [Settings] 	Sharpness: 1.000000
+22:03:41:178 (00032184) > [Settings] 	Lens Flares: On
+22:03:41:178 (00032184) > [Settings] 	Screen Effects: On
+22:03:41:178 (00032184) > [Settings] 	Screen Shake: On
+22:03:41:178 (00032184) > [**************************************************Display + Graphics Settings**************************************************] 
+22:03:41:178 (00032184) > [NxApp] Creating window...
+22:03:41:190 (00013556) > [GameWindow] UpdateState bVisible true
+22:03:41:226 (00032184) > [NxApp] Window created.
+22:03:41:226 (00032184) > [NxApp] Initializing swapchain...
+22:03:41:226 (00017908) > [SwapChain] Creating...
+22:03:41:227 (00017908) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+22:03:41:227 (00017908) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+22:03:41:237 (00017908) > [DXGI] Created swapchain.
+22:03:41:537 (00017908) > [DXGI] Set-up exclusive fullscreen 
+22:03:41:537 (00017908) > [NxDXGI] Creating exclusive fullscreen swapchain with refresh rate 100
+22:03:41:761 (00017908) > [SwapChain] Gamma correction is enabled.
+22:03:41:761 (00017908) > [SwapChain] Successfully created.
+22:03:41:761 (00017908) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+22:03:41:761 (00017908) > [Upscaler] ConvertScreenToRenderRes: wxh = 1280x720 | min = 960x540 | max =  1920x1080
+22:03:41:761 (00032184) > [NxApp] Swapchain initialized
+22:03:41:761 (00032184) > [NxApp] Initializing renderer...
+22:03:41:763 (00032184) > [NxApp] Renderer initialized
+22:03:41:764 (00032184) > [NxStorage] Detected device at 'E:\Marvels SpiderMan 2', name 'Samsung SSD 970 EVO Plus 500GB', SSD: Yes, NVMe: Yes
+22:03:41:764 (00032184) > [NxStorage] Graphics device supports GPU decompression
+22:03:42:698 (00032184) > [NxStorage] DirectStorage initialization succeeded
+22:03:42:789 (00032184) > [Render] File cache.pso contains 18425 pipelines and 0 duplicates
+22:03:42:796 (00032184) > [Render] File C:\Users\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man 2\\cache.pso contains 14 pipelines and 0 duplicates
+22:03:42:796 (00032184) > [Render] Support for Shader Model 6.6: Yes
+22:03:42:796 (00032184) > [Render] Is UMA: No Is Cache Coherent: No
+22:03:42:796 (00032184) > [Render] Managed Buffer Location: Tiled Resource
+22:03:43:083 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:43:084 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:43:085 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:43:851 (00032184) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+22:03:43:855 (00032184) > [PSNAccountLinking] [PSN] scePsPcInitialize failed: 8a80010d
+22:03:43:856 (00032184) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+22:03:43:856 (00032184) > [PSNAccountLinking] [Steam Player] Steam module not found or exports not found.
+22:03:43:856 (00032184) > [PSNAccountLinking] PSNAccountLinking Init failed
+22:03:44:697 (00011560) > [Save] Loading Slotless: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save
+22:03:44:697 (00011560) > [Save] Processing Slotless: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save
+22:03:44:697 (00011560) > [Save] Processing Slotless: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save size == 0
+22:03:44:697 (00011560) > [Save] Slotless No saves found
+22:03:44:711 (00011560) > [Save] Loading Slotless: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\prefs-autosave.save
+22:03:44:711 (00011560) > [Save] Processing Slotless: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\prefs-autosave.save
+22:03:44:723 (00011560) > [Save] Slotless Latest or -1
+22:03:45:121 (00027764) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:45:146 (00003096) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:45:178 (00011132) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:45:245 (00011560) > [Save] Loading Slotless: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\extra-autosave.save
+22:03:45:245 (00011560) > [Save] Processing Slotless: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\extra-autosave.save
+22:03:45:245 (00011560) > [Save] Processing Slotless: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\extra-autosave.save size == 0
+22:03:45:245 (00011560) > [Save] Slotless No saves found
+22:03:45:640 (00011132) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:45:640 (00011132) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:45:641 (00011132) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:041 (00032184) > [NxSteam] OnUserStatsReceived 2651280 1
+22:03:46:044 (00032184) > [Sound] Changing sound listening mode: 8
+22:03:46:336 (00003096) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:753 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:757 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:909 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:922 (00020720) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:923 (00020720) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:03:46:937 (00027764) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:04:09:168 (00011560) > [Save] Loading kLobbySlot: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\lobby-autosave.save
+22:04:09:168 (00011560) > [Save] Processing kLobbySlot: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\lobby-autosave.save
+22:04:09:168 (00011560) > [Save] Processing kLobbySlot: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\lobby-autosave.save size == 0
+22:04:09:168 (00011560) > [Save] kLobbySlot No saves found
+22:04:09:173 (00011560) > [Save] Loading Slot 6: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot6-autosave.save
+22:04:09:173 (00011560) > [Save] Processing Slot 6: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot6-autosave.save
+22:04:09:173 (00011560) > [Save] Processing Slot 6: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot6-autosave.save size == 0
+22:04:09:173 (00011560) > [Save] Slot 6 No saves found
+22:04:09:187 (00011560) > [Save] Loading Slot 5: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot5-autosave.save
+22:04:09:187 (00011560) > [Save] Processing Slot 5: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot5-autosave.save
+22:04:09:187 (00011560) > [Save] Processing Slot 5: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot5-autosave.save size == 0
+22:04:09:187 (00011560) > [Save] Slot 5 No saves found
+22:04:09:192 (00011560) > [Save] Loading Slot 4: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot4-autosave.save
+22:04:09:192 (00011560) > [Save] Processing Slot 4: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot4-autosave.save
+22:04:09:192 (00011560) > [Save] Processing Slot 4: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot4-autosave.save size == 0
+22:04:09:192 (00011560) > [Save] Slot 4 No saves found
+22:04:09:200 (00011560) > [Save] Loading Slot 3: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot3-autosave.save
+22:04:09:200 (00011560) > [Save] Processing Slot 3: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot3-autosave.save
+22:04:09:200 (00011560) > [Save] Processing Slot 3: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot3-autosave.save size == 0
+22:04:09:200 (00011560) > [Save] Slot 3 No saves found
+22:04:09:207 (00011560) > [Save] Loading Slot 2: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot2-autosave.save
+22:04:09:207 (00011560) > [Save] Processing Slot 2: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot2-autosave.save
+22:04:09:208 (00011560) > [Save] Processing Slot 2: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot2-autosave.save size == 0
+22:04:09:208 (00011560) > [Save] Slot 2 No saves found
+22:04:09:216 (00011560) > [Save] Loading Slot 1: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot1-autosave.save
+22:04:09:216 (00011560) > [Save] Processing Slot 1: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot1-autosave.save
+22:04:09:247 (00011560) > [Save] Slot 1 Latest or -1
+22:04:09:305 (00011560) > [Save] Loading Debug Slot: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save
+22:04:09:305 (00011560) > [Save] Processing Debug Slot: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save
+22:04:09:305 (00011560) > [Save] Processing Debug Slot: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\debug-autosave.save size == 0
+22:04:09:305 (00011560) > [Save] Debug Slot No saves found
+22:04:09:442 (00032184) > [PSNAccountLinking] Analytics 1
+22:04:09:442 (00032184) > [PSNAccountLinking] [PSN] scePsPcSetDeviceDataCollectionSetting failed 8a80010d
+22:04:09:457 (00032184) > [Sound] Changing sound listening mode: 8
+22:04:09:885 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:04:10:404 (00032140) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:04:17:073 (00032184) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+22:04:18:217 (00032184) > [PSNAccountLinking] [PSN Linking] registration url only supported by steam platform
+22:04:19:742 (00011560) > [Save] Loading Slot 1: autosave save C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot1-autosave.save
+22:04:19:742 (00011560) > [Save] Processing Slot 1: C:\Users\<username>\Documents\Marvel's Spider-Man 2\\76561197960271872\slot1-autosave.save
+22:04:19:745 (00011560) > [Save] Slot 1 Latest or -1
+22:04:20:266 (00020040) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:04:20:981 (00020040) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:04:29:244 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:04:29:244 (00020116) > [Render] Working set: 8712MB Page file: 18112MB Video Budget: 7011MB Video Usage: 6360MB Sys Budget: 15484MB Sys Usage: 1936MB BVH heaps: 0MB BVH size: 0MB Demoted: 0MB fps: 115.8 GPU Temp: 63C
+22:05:29:246 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:05:29:246 (00020116) > [Render] Working set: 9533MB Page file: 18916MB Video Budget: 7143MB Video Usage: 6502MB Sys Budget: 15484MB Sys Usage: 2595MB BVH heaps: 0MB BVH size: 0MB Demoted: 555MB fps: 85.5 GPU Temp: 66C
+22:06:29:252 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:06:29:252 (00020116) > [Render] Working set: 9655MB Page file: 19020MB Video Budget: 7143MB Video Usage: 6446MB Sys Budget: 15484MB Sys Usage: 2691MB BVH heaps: 0MB BVH size: 0MB Demoted: 586MB fps: 77.5 GPU Temp: 64C
+22:07:29:243 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:07:29:243 (00020116) > [Render] Working set: 9654MB Page file: 19183MB Video Budget: 7143MB Video Usage: 6559MB Sys Budget: 15484MB Sys Usage: 2712MB BVH heaps: 0MB BVH size: 0MB Demoted: 491MB fps: 79.1 GPU Temp: 66C
+22:08:29:250 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:08:29:250 (00020116) > [Render] Working set: 9553MB Page file: 19398MB Video Budget: 7152MB Video Usage: 6525MB Sys Budget: 15484MB Sys Usage: 2782MB BVH heaps: 0MB BVH size: 0MB Demoted: 579MB fps: 85.7 GPU Temp: 66C
+22:09:29:251 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:09:29:251 (00020116) > [Render] Working set: 9609MB Page file: 19391MB Video Budget: 7152MB Video Usage: 6521MB Sys Budget: 15484MB Sys Usage: 2772MB BVH heaps: 0MB BVH size: 0MB Demoted: 568MB fps: 83.4 GPU Temp: 65C
+22:10:29:247 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:10:29:247 (00020116) > [Render] Working set: 9516MB Page file: 19307MB Video Budget: 7155MB Video Usage: 6556MB Sys Budget: 15484MB Sys Usage: 2731MB BVH heaps: 0MB BVH size: 0MB Demoted: 529MB fps: 83.8 GPU Temp: 66C
+22:11:29:250 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:11:29:250 (00020116) > [Render] Working set: 9885MB Page file: 19614MB Video Budget: 7143MB Video Usage: 6614MB Sys Budget: 15484MB Sys Usage: 2734MB BVH heaps: 0MB BVH size: 0MB Demoted: 468MB fps: 74.6 GPU Temp: 66C
+22:12:29:243 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:12:29:243 (00020116) > [Render] Working set: 9895MB Page file: 19534MB Video Budget: 7152MB Video Usage: 6445MB Sys Budget: 15484MB Sys Usage: 3007MB BVH heaps: 0MB BVH size: 0MB Demoted: 702MB fps: 85.4 GPU Temp: 65C
+22:12:50:640 (00020720) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:12:50:642 (00020720) > [D3D] device->GetD3D12Device()->CreateGraphicsPipelineState(&desc, __uuidof(**(&pso)), IID_PPV_ARGS_Helper(&pso)) failed with HRESULT 2147942487 (0x80070057)
+22:13:29:249 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:13:29:249 (00020116) > [Render] Working set: 10020MB Page file: 19620MB Video Budget: 7143MB Video Usage: 6522MB Sys Budget: 15484MB Sys Usage: 3040MB BVH heaps: 0MB BVH size: 0MB Demoted: 662MB fps: 133.8 GPU Temp: 65C
+22:14:29:244 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:14:29:244 (00020116) > [Render] Working set: 10230MB Page file: 19825MB Video Budget: 7143MB Video Usage: 6583MB Sys Budget: 15484MB Sys Usage: 3126MB BVH heaps: 0MB BVH size: 0MB Demoted: 747MB fps: 155.5 GPU Temp: 67C
+22:15:29:254 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:15:29:254 (00020116) > [Render] Working set: 10315MB Page file: 19740MB Video Budget: 7143MB Video Usage: 6439MB Sys Budget: 15484MB Sys Usage: 3106MB BVH heaps: 0MB BVH size: 0MB Demoted: 735MB fps: 171.2 GPU Temp: 66C
+22:16:29:249 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:16:29:249 (00020116) > [Render] Working set: 10258MB Page file: 19827MB Video Budget: 7135MB Video Usage: 6508MB Sys Budget: 15484MB Sys Usage: 3034MB BVH heaps: 0MB BVH size: 0MB Demoted: 662MB fps: 92.4 GPU Temp: 68C
+22:17:29:243 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:17:29:243 (00020116) > [Render] Working set: 10226MB Page file: 19636MB Video Budget: 7135MB Video Usage: 6449MB Sys Budget: 15484MB Sys Usage: 3106MB BVH heaps: 0MB BVH size: 0MB Demoted: 735MB fps: 82.9 GPU Temp: 66C
+22:18:29:256 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:18:29:256 (00020116) > [Render] Working set: 10211MB Page file: 19672MB Video Budget: 7143MB Video Usage: 6552MB Sys Budget: 15484MB Sys Usage: 3053MB BVH heaps: 0MB BVH size: 0MB Demoted: 626MB fps: 84.1 GPU Temp: 65C
+22:19:29:247 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:19:29:247 (00020116) > [Render] Working set: 10007MB Page file: 19677MB Video Budget: 7143MB Video Usage: 6658MB Sys Budget: 15484MB Sys Usage: 2899MB BVH heaps: 0MB BVH size: 0MB Demoted: 508MB fps: 73.1 GPU Temp: 64C
+22:20:29:246 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:20:29:247 (00020116) > [Render] Working set: 10171MB Page file: 19827MB Video Budget: 7135MB Video Usage: 6606MB Sys Budget: 15484MB Sys Usage: 2981MB BVH heaps: 0MB BVH size: 0MB Demoted: 550MB fps: 93.4 GPU Temp: 64C
+22:21:29:247 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:21:29:247 (00020116) > [Render] Working set: 10171MB Page file: 19729MB Video Budget: 7143MB Video Usage: 6422MB Sys Budget: 15484MB Sys Usage: 3194MB BVH heaps: 0MB BVH size: 0MB Demoted: 722MB fps: 91.6 GPU Temp: 66C
+22:22:29:251 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:22:29:251 (00020116) > [Render] Working set: 10157MB Page file: 19759MB Video Budget: 7143MB Video Usage: 6495MB Sys Budget: 15484MB Sys Usage: 3128MB BVH heaps: 0MB BVH size: 0MB Demoted: 637MB fps: 88.0 GPU Temp: 66C
+22:23:29:245 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:23:29:245 (00020116) > [Render] Working set: 10215MB Page file: 19749MB Video Budget: 7135MB Video Usage: 6426MB Sys Budget: 15484MB Sys Usage: 3239MB BVH heaps: 0MB BVH size: 0MB Demoted: 726MB fps: 84.6 GPU Temp: 66C
+22:24:29:246 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:24:29:246 (00020116) > [Render] Working set: 10202MB Page file: 19771MB Video Budget: 7135MB Video Usage: 6426MB Sys Budget: 15484MB Sys Usage: 3270MB BVH heaps: 0MB BVH size: 0MB Demoted: 739MB fps: 87.4 GPU Temp: 66C
+22:25:29:248 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:25:29:248 (00020116) > [Render] Working set: 10152MB Page file: 19761MB Video Budget: 7143MB Video Usage: 6547MB Sys Budget: 15484MB Sys Usage: 3134MB BVH heaps: 0MB BVH size: 0MB Demoted: 603MB fps: 85.3 GPU Temp: 63C
+22:26:29:253 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:26:29:253 (00020116) > [Render] Working set: 10186MB Page file: 19801MB Video Budget: 7143MB Video Usage: 6511MB Sys Budget: 15484MB Sys Usage: 3216MB BVH heaps: 0MB BVH size: 0MB Demoted: 645MB fps: 90.2 GPU Temp: 63C
+22:27:29:251 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:27:29:251 (00020116) > [Render] Working set: 10321MB Page file: 19700MB Video Budget: 7135MB Video Usage: 6426MB Sys Budget: 15484MB Sys Usage: 3108MB BVH heaps: 0MB BVH size: 0MB Demoted: 734MB fps: 83.1 GPU Temp: 66C
+22:28:29:245 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:28:29:245 (00020116) > [Render] Working set: 10309MB Page file: 19794MB Video Budget: 7143MB Video Usage: 6531MB Sys Budget: 15484MB Sys Usage: 3015MB BVH heaps: 0MB BVH size: 0MB Demoted: 622MB fps: 81.9 GPU Temp: 67C
+22:29:29:242 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:29:29:243 (00020116) > [Render] Working set: 10318MB Page file: 19797MB Video Budget: 7143MB Video Usage: 6600MB Sys Budget: 15484MB Sys Usage: 3056MB BVH heaps: 0MB BVH size: 0MB Demoted: 693MB fps: 85.5 GPU Temp: 68C
+22:30:29:248 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:30:29:248 (00020116) > [Render] Working set: 10209MB Page file: 19797MB Video Budget: 7143MB Video Usage: 6600MB Sys Budget: 15484MB Sys Usage: 3056MB BVH heaps: 0MB BVH size: 0MB Demoted: 693MB fps: 85.7 GPU Temp: 69C
+22:31:29:247 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:31:29:247 (00020116) > [Render] Working set: 10228MB Page file: 19742MB Video Budget: 7143MB Video Usage: 6535MB Sys Budget: 15484MB Sys Usage: 2982MB BVH heaps: 0MB BVH size: 0MB Demoted: 619MB fps: 84.8 GPU Temp: 65C
+22:32:29:244 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:32:29:244 (00020116) > [Render] Working set: 10191MB Page file: 19667MB Video Budget: 7143MB Video Usage: 6498MB Sys Budget: 15484MB Sys Usage: 3015MB BVH heaps: 0MB BVH size: 0MB Demoted: 659MB fps: 88.3 GPU Temp: 64C
+22:33:29:244 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:33:29:245 (00020116) > [Render] Working set: 10739MB Page file: 19961MB Video Budget: 7135MB Video Usage: 6459MB Sys Budget: 15484MB Sys Usage: 3300MB BVH heaps: 0MB BVH size: 0MB Demoted: 936MB fps: 107.7 GPU Temp: 67C
+22:34:29:250 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:34:29:250 (00020116) > [Render] Working set: 8999MB Page file: 19754MB Video Budget: 7135MB Video Usage: 6471MB Sys Budget: 15484MB Sys Usage: 3044MB BVH heaps: 0MB BVH size: 0MB Demoted: 684MB fps: 116.6 GPU Temp: 67C
+22:35:29:251 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:35:29:251 (00020116) > [Render] Working set: 8893MB Page file: 19719MB Video Budget: 7135MB Video Usage: 6533MB Sys Budget: 15484MB Sys Usage: 3023MB BVH heaps: 0MB BVH size: 0MB Demoted: 666MB fps: 66.7 GPU Temp: 66C
+22:36:29:245 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:36:29:245 (00020116) > [Render] Working set: 8858MB Page file: 19686MB Video Budget: 7143MB Video Usage: 6474MB Sys Budget: 15484MB Sys Usage: 3058MB BVH heaps: 0MB BVH size: 0MB Demoted: 681MB fps: 68.2 GPU Temp: 68C
+22:37:29:260 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:37:29:260 (00020116) > [Render] Working set: 9044MB Page file: 19788MB Video Budget: 7143MB Video Usage: 6533MB Sys Budget: 15484MB Sys Usage: 3011MB BVH heaps: 0MB BVH size: 0MB Demoted: 593MB fps: 71.9 GPU Temp: 68C
+22:38:29:270 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:38:29:270 (00020116) > [Render] Working set: 8942MB Page file: 19787MB Video Budget: 7135MB Video Usage: 6630MB Sys Budget: 15484MB Sys Usage: 2774MB BVH heaps: 0MB BVH size: 0MB Demoted: 354MB fps: 60.5 GPU Temp: 61C
+22:39:29:259 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:39:29:259 (00020116) > [Render] Working set: 6768MB Page file: 20017MB Video Budget: 7135MB Video Usage: 6596MB Sys Budget: 15484MB Sys Usage: 3050MB BVH heaps: 0MB BVH size: 0MB Demoted: 627MB fps: 64.3 GPU Temp: 66C
+22:40:29:269 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:40:29:269 (00020116) > [Render] Working set: 6668MB Page file: 19908MB Video Budget: 7135MB Video Usage: 6506MB Sys Budget: 15484MB Sys Usage: 3057MB BVH heaps: 0MB BVH size: 0MB Demoted: 622MB fps: 75.2 GPU Temp: 65C
+22:41:29:266 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:41:29:266 (00020116) > [Render] Working set: 7198MB Page file: 20189MB Video Budget: 7135MB Video Usage: 6544MB Sys Budget: 15484MB Sys Usage: 3305MB BVH heaps: 0MB BVH size: 0MB Demoted: 902MB fps: 79.2 GPU Temp: 72C
+22:42:29:266 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:42:29:266 (00020116) > [Render] Working set: 7006MB Page file: 20172MB Video Budget: 7135MB Video Usage: 6615MB Sys Budget: 15484MB Sys Usage: 3308MB BVH heaps: 0MB BVH size: 0MB Demoted: 901MB fps: 62.0 GPU Temp: 67C
+22:43:29:261 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:43:29:262 (00020116) > [Render] Working set: 7090MB Page file: 20248MB Video Budget: 7135MB Video Usage: 6590MB Sys Budget: 15484MB Sys Usage: 3361MB BVH heaps: 0MB BVH size: 0MB Demoted: 955MB fps: 65.0 GPU Temp: 68C
+22:44:29:271 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:44:29:271 (00020116) > [Render] Working set: 6751MB Page file: 20283MB Video Budget: 7101MB Video Usage: 6602MB Sys Budget: 15484MB Sys Usage: 3362MB BVH heaps: 0MB BVH size: 0MB Demoted: 956MB fps: 66.7 GPU Temp: 70C
+22:45:29:258 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:45:29:259 (00020116) > [Render] Working set: 6605MB Page file: 20071MB Video Budget: 7113MB Video Usage: 6556MB Sys Budget: 15484MB Sys Usage: 3148MB BVH heaps: 0MB BVH size: 0MB Demoted: 742MB fps: 77.3 GPU Temp: 72C
+22:46:29:263 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:46:29:263 (00020116) > [Render] Working set: 6454MB Page file: 20065MB Video Budget: 7116MB Video Usage: 6560MB Sys Budget: 15484MB Sys Usage: 3150MB BVH heaps: 0MB BVH size: 0MB Demoted: 744MB fps: 97.0 GPU Temp: 72C
+22:47:29:266 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:47:29:266 (00020116) > [Render] Working set: 6272MB Page file: 20149MB Video Budget: 7117MB Video Usage: 6610MB Sys Budget: 15484MB Sys Usage: 3176MB BVH heaps: 0MB BVH size: 0MB Demoted: 769MB fps: 77.3 GPU Temp: 71C
+22:48:29:272 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:48:29:272 (00020116) > [Render] Working set: 6290MB Page file: 20203MB Video Budget: 7112MB Video Usage: 6449MB Sys Budget: 15484MB Sys Usage: 3405MB BVH heaps: 0MB BVH size: 0MB Demoted: 999MB fps: 67.0 GPU Temp: 69C
+22:49:29:260 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:49:29:260 (00020116) > [Render] Working set: 6093MB Page file: 20227MB Video Budget: 7113MB Video Usage: 6563MB Sys Budget: 15484MB Sys Usage: 3309MB BVH heaps: 0MB BVH size: 0MB Demoted: 902MB fps: 81.3 GPU Temp: 70C
+22:50:29:260 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:50:29:260 (00020116) > [Render] Working set: 6191MB Page file: 20227MB Video Budget: 7113MB Video Usage: 6467MB Sys Budget: 15484MB Sys Usage: 3403MB BVH heaps: 0MB BVH size: 0MB Demoted: 996MB fps: 79.4 GPU Temp: 70C
+22:51:29:262 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:51:29:263 (00020116) > [Render] Working set: 6244MB Page file: 20220MB Video Budget: 7109MB Video Usage: 6429MB Sys Budget: 15484MB Sys Usage: 3428MB BVH heaps: 0MB BVH size: 0MB Demoted: 1021MB fps: 83.4 GPU Temp: 69C
+22:52:29:265 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:52:29:265 (00020116) > [Render] Working set: 6103MB Page file: 20185MB Video Budget: 7114MB Video Usage: 6529MB Sys Budget: 15484MB Sys Usage: 3301MB BVH heaps: 0MB BVH size: 0MB Demoted: 894MB fps: 71.4 GPU Temp: 69C
+22:53:29:269 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:53:29:269 (00020116) > [Render] Working set: 6074MB Page file: 20186MB Video Budget: 7101MB Video Usage: 6471MB Sys Budget: 15484MB Sys Usage: 3356MB BVH heaps: 0MB BVH size: 0MB Demoted: 950MB fps: 85.1 GPU Temp: 71C
+22:54:29:258 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:54:29:258 (00020116) > [Render] Working set: 6036MB Page file: 20222MB Video Budget: 7113MB Video Usage: 6494MB Sys Budget: 15484MB Sys Usage: 3353MB BVH heaps: 0MB BVH size: 0MB Demoted: 980MB fps: 111.3 GPU Temp: 63C
+22:55:29:265 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:55:29:265 (00020116) > [Render] Working set: 6036MB Page file: 20191MB Video Budget: 7113MB Video Usage: 6479MB Sys Budget: 15484MB Sys Usage: 3353MB BVH heaps: 0MB BVH size: 0MB Demoted: 980MB fps: 126.0 GPU Temp: 61C
+22:56:29:269 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:56:29:269 (00020116) > [Render] Working set: 6038MB Page file: 20143MB Video Budget: 7113MB Video Usage: 6410MB Sys Budget: 15484MB Sys Usage: 3350MB BVH heaps: 0MB BVH size: 0MB Demoted: 984MB fps: 127.5 GPU Temp: 65C
+22:57:29:260 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:57:29:261 (00020116) > [Render] Working set: 5998MB Page file: 20176MB Video Budget: 7113MB Video Usage: 6511MB Sys Budget: 15484MB Sys Usage: 3256MB BVH heaps: 0MB BVH size: 0MB Demoted: 889MB fps: 81.7 GPU Temp: 70C
+22:58:29:259 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:58:29:259 (00020116) > [Render] Working set: 6043MB Page file: 20142MB Video Budget: 7130MB Video Usage: 6439MB Sys Budget: 15484MB Sys Usage: 3340MB BVH heaps: 0MB BVH size: 0MB Demoted: 973MB fps: 91.4 GPU Temp: 68C
+22:59:29:263 (00020116) > [Render] Quering NVAPI for GPU temperature
+22:59:29:263 (00020116) > [Render] Working set: 5792MB Page file: 20166MB Video Budget: 7113MB Video Usage: 6611MB Sys Budget: 15484MB Sys Usage: 3164MB BVH heaps: 0MB BVH size: 0MB Demoted: 797MB fps: 78.5 GPU Temp: 71C
+23:00:29:269 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:00:29:269 (00020116) > [Render] Working set: 7109MB Page file: 19993MB Video Budget: 7097MB Video Usage: 6517MB Sys Budget: 15484MB Sys Usage: 3002MB BVH heaps: 0MB BVH size: 0MB Demoted: 613MB fps: 83.9 GPU Temp: 68C
+23:01:29:260 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:01:29:260 (00020116) > [Render] Working set: 7324MB Page file: 20216MB Video Budget: 7105MB Video Usage: 6538MB Sys Budget: 15484MB Sys Usage: 3095MB BVH heaps: 0MB BVH size: 0MB Demoted: 701MB fps: 68.2 GPU Temp: 66C
+23:02:29:267 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:02:29:267 (00020116) > [Render] Working set: 7229MB Page file: 20045MB Video Budget: 7088MB Video Usage: 6453MB Sys Budget: 15484MB Sys Usage: 3210MB BVH heaps: 0MB BVH size: 0MB Demoted: 820MB fps: 72.5 GPU Temp: 65C
+23:03:29:263 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:03:29:263 (00020116) > [Render] Working set: 7215MB Page file: 19979MB Video Budget: 7105MB Video Usage: 6403MB Sys Budget: 15484MB Sys Usage: 3121MB BVH heaps: 0MB BVH size: 0MB Demoted: 732MB fps: 71.1 GPU Temp: 67C
+23:04:29:269 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:04:29:269 (00020116) > [Render] Working set: 7148MB Page file: 20047MB Video Budget: 7105MB Video Usage: 6423MB Sys Budget: 15484MB Sys Usage: 3108MB BVH heaps: 0MB BVH size: 0MB Demoted: 718MB fps: 70.0 GPU Temp: 65C
+23:05:29:258 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:05:29:258 (00020116) > [Render] Working set: 7030MB Page file: 20034MB Video Budget: 7105MB Video Usage: 6408MB Sys Budget: 15484MB Sys Usage: 3115MB BVH heaps: 0MB BVH size: 0MB Demoted: 726MB fps: 65.6 GPU Temp: 66C
+23:06:29:266 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:06:29:266 (00020116) > [Render] Working set: 6940MB Page file: 20049MB Video Budget: 7088MB Video Usage: 6521MB Sys Budget: 15484MB Sys Usage: 3025MB BVH heaps: 0MB BVH size: 0MB Demoted: 607MB fps: 68.2 GPU Temp: 66C
+23:07:29:265 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:07:29:266 (00020116) > [Render] Working set: 7232MB Page file: 20020MB Video Budget: 7088MB Video Usage: 6413MB Sys Budget: 15484MB Sys Usage: 3215MB BVH heaps: 0MB BVH size: 0MB Demoted: 826MB fps: 70.5 GPU Temp: 69C
+23:08:29:262 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:08:29:262 (00020116) > [Render] Working set: 7461MB Page file: 20355MB Video Budget: 7088MB Video Usage: 6584MB Sys Budget: 15484MB Sys Usage: 3355MB BVH heaps: 0MB BVH size: 0MB Demoted: 937MB fps: 85.2 GPU Temp: 67C
+23:09:29:271 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:09:29:271 (00020116) > [Render] Working set: 7226MB Page file: 20086MB Video Budget: 7105MB Video Usage: 6391MB Sys Budget: 15484MB Sys Usage: 3184MB BVH heaps: 0MB BVH size: 0MB Demoted: 766MB fps: 160.6 GPU Temp: 69C
+23:10:29:261 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:10:29:261 (00020116) > [Render] Working set: 7108MB Page file: 20085MB Video Budget: 7105MB Video Usage: 6453MB Sys Budget: 15484MB Sys Usage: 3245MB BVH heaps: 0MB BVH size: 0MB Demoted: 829MB fps: 64.6 GPU Temp: 68C
+23:11:29:266 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:11:29:266 (00020116) > [Render] Working set: 7123MB Page file: 20155MB Video Budget: 7105MB Video Usage: 6507MB Sys Budget: 15484MB Sys Usage: 3091MB BVH heaps: 0MB BVH size: 0MB Demoted: 669MB fps: 63.5 GPU Temp: 70C
+23:12:29:268 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:12:29:270 (00020116) > [Render] Working set: 7028MB Page file: 20013MB Video Budget: 7088MB Video Usage: 6368MB Sys Budget: 15484MB Sys Usage: 3173MB BVH heaps: 0MB BVH size: 0MB Demoted: 763MB fps: 64.3 GPU Temp: 65C
+23:13:29:258 (00020116) > [Render] Quering NVAPI for GPU temperature
+23:13:29:258 (00020116) > [Render] Working set: 7104MB Page file: 20134MB Video Budget: 7105MB Video Usage: 6561MB Sys Budget: 15484MB Sys Usage: 2976MB BVH heaps: 0MB BVH size: 0MB Demoted: 565MB fps: 71.3 GPU Temp: 67C
