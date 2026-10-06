@@ -1,0 +1,14 @@
+﻿[2026.09.27-18.52.23:185][  0]Log file open, 09/27/26 18:52:23
+[2026.09.27-18.52.23:185][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2026.09.27-18.52.23:185][  0]LogMemory: Process Physical Memory: 473.27 MB used, 1155.18 MB peak
+[2026.09.27-18.52.23:185][  0]LogMemory: Process Virtual Memory: 591.71 MB used, 1929.02 MB peak
+[2026.09.27-18.52.23:185][  0]LogMemory: Physical Memory: 11324.00 MB used,  21181.95 MB free, 32505.95 MB total
+[2026.09.27-18.52.23:185][  0]LogMemory: Virtual Memory: 134187896.00 MB used,  29832.89 MB free, 134217728.00 MB total
+[2026.09.27-18.52.26:740][ 31]r.VSync = "1"
+[2026.09.27-18.52.26:749][ 31]LogDataTable                              Fatal         
+[2026.09.27-18.52.29:616][ 31]r.VSync = "0"
+[2026.09.27-18.52.29:617][ 31]xx.RO.Gamma = "0.508"
+[2026.09.27-18.52.29:629][ 31]r.VSync = "0"
+[2026.09.27-20.00.02:501][714]Closing by request
+[2026.09.27-20.00.02:518][715]CommonUI.AlwaysShowCursor = "false"
+[2026.09.27-20.00.42:469][715]Log file closed, 09/27/26 20:00:42
